@@ -1,0 +1,15 @@
+<svg height="50" version="1.1" width="50" xmlns="http://www.w3.org/2000/svg"
+     style="overflow: hidden; position: relative;" _mstVisible="2">
+    <g style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);" _mstVisible="3">
+        <desc _mstHash="483600" _mstTextHash="496717" _mstVisible="4">Created with Raphaël 2.0.0</desc>
+        <defs _mstVisible="4"></defs>
+        <path fill="none" stroke="#3b4449" d="M25,20L25,0" stroke-width="2" stroke-linecap="round" stroke-miterlimit="6"
+              transform="matrix(1,0,0,1,0,5)" style="stroke-linecap: round; stroke-miterlimit: 6;"
+              _mstVisible="4"></path>
+        <path fill="#ffffff" stroke="#3b4449" d="M5,20L25,40L45,20Z" stroke-width="2" stroke-linecap="round"
+              stroke-linejoin="round" stroke-miterlimit="6" transform="matrix(1,0,0,1,0,5)"
+              style="stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 6;" _mstVisible="4"></path>
+        <path fill="#ffffff" stroke="#ffffff" d="M5.5,5.5L44.5,5.5L44.5,34.5L5.5,34.5Z" opacity="0" stroke-width="1"
+              transform="matrix(1,0,0,1,0,5)" style="opacity: 0;" _mstVisible="4"></path>
+    </g>
+</svg>

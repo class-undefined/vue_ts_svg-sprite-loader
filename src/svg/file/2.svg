@@ -1,0 +1,25 @@
+<svg height="50" version="1.1" width="50" xmlns="http://www.w3.org/2000/svg"
+     style="overflow: hidden; position: relative;" _mstVisible="2">
+    <g style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);" _mstVisible="3">
+        <desc _mstHash="484172" _mstTextHash="496717" _mstVisible="4">Created with Raphaël 2.0.0</desc>
+        <defs _mstVisible="4"></defs>
+        <path fill="#ffffff" stroke="#3b4449"
+              d="M50,50C50,36.19374,38.806255,25,25,25C11.193755,25,0,36.19374,0,50C0,63.80632,11.193755,75,25,75C38.806255,75,50,63.80632,50,50"
+              stroke-width="2" stroke-linecap="round" stroke-miterlimit="6" transform="matrix(0.46,0,0,0.46,13.5,2)"
+              style="stroke-linecap: round; stroke-miterlimit: 6;" _mstVisible="4"></path>
+        <path fill="none" stroke="#3b4449" d="M25,0L25,25" stroke-width="2" stroke-linecap="round" stroke-miterlimit="6"
+              transform="matrix(0.46,0,0,0.46,13.5,2)" style="stroke-linecap: round; stroke-miterlimit: 6;"
+              _mstVisible="4"></path>
+        <path fill="none" stroke="#3b4449" d="M25,100.00002L25,75" stroke-width="2" stroke-linecap="round"
+              stroke-miterlimit="6" transform="matrix(0.46,0,0,0.46,13.5,2)"
+              style="stroke-linecap: round; stroke-miterlimit: 6;" _mstVisible="4"></path>
+        <path fill="#3b4449" stroke="none"
+              d="M25.84227,33.168L24.157737,33.168L24.157737,40.48806L16.898932,40.48806L16.898932,42.17259L24.157737,42.17259L24.157737,49.49262L25.84227,49.49262L25.84227,42.17259L33.101076,42.17259L33.101076,40.48806L25.84227,40.48806L25.84227,33.168"
+              font-size="15px" font-weight="normal" transform="matrix(0.46,0,0,0.46,13.5,2)"
+              style="font-size: 15px; font-weight: normal;" _mstVisible="4"></path>
+        <path fill="#3b4449" stroke="none"
+              d="M17.006089,60.39372L17.006089,62.07822L33.055093,62.07822L33.055093,60.39372L17.006089,60.39372"
+              font-size="15px" font-weight="normal" transform="matrix(0.46,0,0,0.46,13.5,2)"
+              style="font-size: 15px; font-weight: normal;" _mstVisible="4"></path>
+    </g>
+</svg>
